@@ -23,7 +23,8 @@
 ## 📚 Education
 
 - 🎓 Master's in Computer Science – Maharishi University of Management
-- 🎓 Bachelor's in Information Technology & Finance
+- 🎓 Bachelor's in Information Technology
+- 🎓 Bachelor's in Finance and Banking
 
 ## 📌 What I’m Up To
 
