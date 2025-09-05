@@ -35,7 +35,7 @@
 ## 📫 Let’s Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tuyenthanhle/) or check out some of my testing and automation projects here on GitHub!
-
+My old github repo: https://github.com/thanhtuyenle
 ---
 
 🧪 Quality isn't just a process — it's a mindset.
