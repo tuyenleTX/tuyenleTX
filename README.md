@@ -4,7 +4,7 @@
 
 ## 🔧 Tech Skills
 
-- **Languages**: Java, SQL, JavaScript, TypeScript
+- **Languages**: Java, SQL, JavaScript, TypeScript, NodeJS
 - **Automation Tools**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Playwright
 - **Performance Testing**: JMeter
 - **API Testing**: Postman, REST Assured
